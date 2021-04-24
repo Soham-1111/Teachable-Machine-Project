@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-color: lightsalmon;
+}
+
+.members{
+    width:50%;
+}
+
+#camera{
+    margin-top :20px;
+    border-style: dotted;
+    width: 350px;
+    height: 300px;
+}
+
